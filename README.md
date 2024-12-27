@@ -1,5 +1,5 @@
 # CodeBlack
-Different ChatBots Types: Chatbots come in different types, and they use various technologies and approaches depending on the use case, complexity, and desired interaction. Let's break down #some of the most common types:
+Different ChatBots Types: Chatbots come in different types, and they use various technologies and approaches depending on the use case, complexity, and desired interaction. Let's break down 
 
 ### 1. **Rule-Based Chatbots (Simple Chatbots)**
    **Overview**: Rule-based chatbots operate based on predefined scripts and rules. They are often referred to as "simple" chatbots because they respond to specific keywords or patterns. They are deterministic, meaning they follow a strict set of rules that do not change unless explicitly modified.
