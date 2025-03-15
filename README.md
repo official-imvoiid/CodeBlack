@@ -138,4 +138,4 @@ Different ChatBots Types: Chatbots come in different types, and they use various
 - **Generative chatbots** powered by LLMs like GPT are highly flexible and can handle dynamic conversations but require significant resources.
 - **Hybrid and voice-based chatbots** combine multiple methods to enhance user experience, but come with their own sets of challenges.
 
-If you're interested in implementing or using one of these types of chatbots, you'll need to select the type that best fits your requirements in terms of complexity, resources, and the specific tasks the bot should handle.
+If you're interested in implementing or using one of these types of chatbots, you'll need to select the type that best fits your requirements in terms of complexity, resources, and the specific tasks the bot should handle
